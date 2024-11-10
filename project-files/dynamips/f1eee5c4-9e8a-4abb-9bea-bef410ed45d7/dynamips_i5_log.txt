@@ -1,0 +1,19 @@
+Nov 10 13:16:31.945 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Nov 10 13:16:31.946 HYPERVISOR: Started on IP = localhost, TCP port = 57108.
+Nov 10 13:16:32.446 HYPERVISOR: exec_cmd: hypervisor version 
+Nov 10 13:16:32.446 HYPERVISOR: exec_cmd: hypervisor working_dir D:\Documentos\DaVinci\Redes\DV-REDES-TP-G5\project-files\dynamips 
+Nov 10 13:16:32.446 GENERAL: working_dir=D:\Documentos\DaVinci\Redes\DV-REDES-TP-G5\project-files\dynamips
+Nov 10 13:16:32.446 HYPERVISOR: exec_cmd: ethsw create SW-OC2-P1-USUARIOS 
+Nov 10 13:16:38.886 HYPERVISOR: exec_cmd: nio create_udp udp-92e9a2e1-4279-4c05-9a2e-3a160ea7bc5d 10037 127.0.0.1 10036 
+Nov 10 13:16:38.886 HYPERVISOR: exec_cmd: ethsw add_nio SW-OC2-P1-USUARIOS udp-92e9a2e1-4279-4c05-9a2e-3a160ea7bc5d 
+Nov 10 13:16:38.911 HYPERVISOR: exec_cmd: ethsw set_access_port SW-OC2-P1-USUARIOS udp-92e9a2e1-4279-4c05-9a2e-3a160ea7bc5d 1 
+Nov 10 13:16:39.360 HYPERVISOR: exec_cmd: nio create_udp udp-67bf6f2b-21fd-4949-9516-d9a8d030f286 10051 127.0.0.1 10050 
+Nov 10 13:16:39.360 HYPERVISOR: exec_cmd: ethsw add_nio SW-OC2-P1-USUARIOS udp-67bf6f2b-21fd-4949-9516-d9a8d030f286 
+Nov 10 13:16:39.374 HYPERVISOR: exec_cmd: ethsw set_access_port SW-OC2-P1-USUARIOS udp-67bf6f2b-21fd-4949-9516-d9a8d030f286 1 
+Nov 10 13:16:39.424 HYPERVISOR: exec_cmd: nio create_udp udp-8a280e0f-69a5-4034-9fff-ca1cfd2815fb 10053 127.0.0.1 10052 
+Nov 10 13:16:39.424 HYPERVISOR: exec_cmd: ethsw add_nio SW-OC2-P1-USUARIOS udp-8a280e0f-69a5-4034-9fff-ca1cfd2815fb 
+Nov 10 13:16:39.434 HYPERVISOR: exec_cmd: ethsw set_access_port SW-OC2-P1-USUARIOS udp-8a280e0f-69a5-4034-9fff-ca1cfd2815fb 1 
+Nov 10 13:18:54.989 HYPERVISOR: exec_cmd: ethsw delete SW-OC2-P1-USUARIOS 
+Nov 10 13:18:55.070 HYPERVISOR: exec_cmd: hypervisor stop 
+Nov 10 13:18:55.224 HYPERVISOR: Stopped.
+Nov 10 13:18:55.224 GENERAL: reset done.

@@ -1,0 +1,30 @@
+Nov 10 10:44:00.431 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Nov 10 10:44:00.434 HYPERVISOR: Started on IP = localhost, TCP port = 56393.
+Nov 10 10:44:00.926 HYPERVISOR: exec_cmd: hypervisor version 
+Nov 10 10:44:00.927 HYPERVISOR: exec_cmd: hypervisor working_dir D:\Documentos\DaVinci\Redes\DV-REDES-TP-G5\project-files\dynamips 
+Nov 10 10:44:00.927 GENERAL: working_dir=D:\Documentos\DaVinci\Redes\DV-REDES-TP-G5\project-files\dynamips
+Nov 10 10:44:00.927 HYPERVISOR: exec_cmd: ethsw create SW-CC-SERV 
+Nov 10 10:44:06.187 HYPERVISOR: exec_cmd: nio create_udp udp-b853062a-e7d2-49aa-9590-b19767928d6b 10005 127.0.0.1 10004 
+Nov 10 10:44:06.188 HYPERVISOR: exec_cmd: ethsw add_nio SW-CC-SERV udp-b853062a-e7d2-49aa-9590-b19767928d6b 
+Nov 10 10:44:06.194 HYPERVISOR: exec_cmd: ethsw set_access_port SW-CC-SERV udp-b853062a-e7d2-49aa-9590-b19767928d6b 1 
+Nov 10 10:44:06.232 HYPERVISOR: exec_cmd: nio create_udp udp-42e1a0f3-deb5-4425-81d8-4f1471e1d941 10007 127.0.0.1 10006 
+Nov 10 10:44:06.232 HYPERVISOR: exec_cmd: ethsw add_nio SW-CC-SERV udp-42e1a0f3-deb5-4425-81d8-4f1471e1d941 
+Nov 10 10:44:06.255 HYPERVISOR: exec_cmd: ethsw set_access_port SW-CC-SERV udp-42e1a0f3-deb5-4425-81d8-4f1471e1d941 1 
+Nov 10 10:44:06.351 HYPERVISOR: exec_cmd: nio create_udp udp-a0a8f7ec-ad4d-4103-b762-17a80f56e485 10010 127.0.0.1 10011 
+Nov 10 10:44:06.351 HYPERVISOR: exec_cmd: ethsw add_nio SW-CC-SERV udp-a0a8f7ec-ad4d-4103-b762-17a80f56e485 
+Nov 10 10:44:06.378 HYPERVISOR: exec_cmd: ethsw set_access_port SW-CC-SERV udp-a0a8f7ec-ad4d-4103-b762-17a80f56e485 1 
+Nov 10 10:45:17.482 HYPERVISOR: exec_cmd: ethsw set_access_port SW-CC-SERV udp-b853062a-e7d2-49aa-9590-b19767928d6b 1 
+Nov 10 10:45:17.483 HYPERVISOR: exec_cmd: ethsw set_access_port SW-CC-SERV udp-42e1a0f3-deb5-4425-81d8-4f1471e1d941 1 
+Nov 10 10:45:17.483 HYPERVISOR: exec_cmd: ethsw set_access_port SW-CC-SERV udp-a0a8f7ec-ad4d-4103-b762-17a80f56e485 1 
+Nov 10 10:45:29.488 HYPERVISOR: exec_cmd: ethsw remove_nio SW-CC-SERV udp-a0a8f7ec-ad4d-4103-b762-17a80f56e485 
+Nov 10 10:45:29.516 HYPERVISOR: exec_cmd: nio delete udp-a0a8f7ec-ad4d-4103-b762-17a80f56e485 
+Nov 10 10:46:27.102 HYPERVISOR: exec_cmd: nio create_udp udp-c8c56758-725f-4839-b038-d77fe3d0a276 10062 127.0.0.1 10063 
+Nov 10 10:46:27.102 HYPERVISOR: exec_cmd: ethsw add_nio SW-CC-SERV udp-c8c56758-725f-4839-b038-d77fe3d0a276 
+Nov 10 10:46:27.128 HYPERVISOR: exec_cmd: ethsw set_access_port SW-CC-SERV udp-c8c56758-725f-4839-b038-d77fe3d0a276 1 
+Nov 10 11:20:21.785 HYPERVISOR: exec_cmd: ethsw set_access_port SW-CC-SERV udp-b853062a-e7d2-49aa-9590-b19767928d6b 1 
+Nov 10 11:20:21.786 HYPERVISOR: exec_cmd: ethsw set_access_port SW-CC-SERV udp-42e1a0f3-deb5-4425-81d8-4f1471e1d941 1 
+Nov 10 11:20:21.786 HYPERVISOR: exec_cmd: ethsw set_access_port SW-CC-SERV udp-c8c56758-725f-4839-b038-d77fe3d0a276 1 
+Nov 10 13:14:20.406 HYPERVISOR: exec_cmd: ethsw delete SW-CC-SERV 
+Nov 10 13:14:20.469 HYPERVISOR: exec_cmd: hypervisor stop 
+Nov 10 13:14:20.514 HYPERVISOR: Stopped.
+Nov 10 13:14:20.514 GENERAL: reset done.
