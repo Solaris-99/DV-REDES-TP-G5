@@ -30,79 +30,43 @@
                 "drawing_id": "d09f118d-b126-4070-89bd-ea0e7f93d3b3",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"129\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Oficina Comercial 1</text></svg>",
-                "x": 414,
-                "y": -396,
+                "svg": "<svg width=\"155\" height=\"40\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Oficina Comercial 1\n30 usuarios / 62 hosts</text></svg>",
+                "x": 420,
+                "y": -406,
                 "z": 2
             },
             {
                 "drawing_id": "d688781b-307f-4a4e-8a0f-92932156aa03",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"129\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Oficina Comercial 2</text></svg>",
-                "x": 320,
-                "y": 163,
+                "svg": "<svg width=\"171\" height=\"40\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Oficina Comercial 2\n300 usuarios / 510 hosts</text></svg>",
+                "x": 318,
+                "y": 113,
                 "z": 2
             },
             {
                 "drawing_id": "1c2d4088-fde7-4400-af1e-9f88e8c4c45d",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"147\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Subred de servidores</text></svg>",
-                "x": -814,
-                "y": 258,
+                "svg": "<svg width=\"201\" height=\"40\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Subred de servidores\n1600 servidores / 2046 hosts</text></svg>",
+                "x": -813,
+                "y": 256,
                 "z": 2
             },
             {
                 "drawing_id": "09fd42bc-2539-448c-8cf4-9e4d9320608d",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"133\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Subred de usuarios</text></svg>",
-                "x": -817,
-                "y": -275,
-                "z": 2
-            },
-            {
-                "drawing_id": "fd410b46-a78b-49be-8a0f-d719dac2c69a",
-                "locked": false,
-                "rotation": 0,
-                "svg": "<svg width=\"91\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">250 Usuarios</text></svg>",
-                "x": -794,
-                "y": -252,
-                "z": 2
-            },
-            {
-                "drawing_id": "f7fb2c45-c335-4d88-a943-7bed42054163",
-                "locked": false,
-                "rotation": 0,
-                "svg": "<svg width=\"113\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">1600 servidores</text></svg>",
-                "x": -807,
-                "y": 283,
-                "z": 2
-            },
-            {
-                "drawing_id": "4af952c3-313d-43f6-bd9c-c8b0dd70d738",
-                "locked": false,
-                "rotation": 0,
-                "svg": "<svg width=\"83\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">30 usuarios</text></svg>",
-                "x": 850,
-                "y": -285,
-                "z": 2
-            },
-            {
-                "drawing_id": "9e56ad4e-b3af-4b4c-aa3b-4972f2ca4267",
-                "locked": false,
-                "rotation": 0,
-                "svg": "<svg width=\"91\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">300 usuarios</text></svg>",
-                "x": 599,
-                "y": 171,
+                "svg": "<svg width=\"171\" height=\"40\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Subred de usuarios\n250 usuarios / 254 hosts</text></svg>",
+                "x": -815,
+                "y": -313,
                 "z": 2
             },
             {
                 "drawing_id": "92f471d1-9e3a-4ba5-add7-8aac44b60011",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"100\" height=\"40\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">10.100.1.0/26\n10.100.1.63</text></svg>",
+                "svg": "<svg width=\"166\" height=\"72\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">10.100.1.0/26\nrango\n10.100.1.1 - 10.100.1.62\nbroadcast - 10.100.1.63</text></svg>",
                 "x": 423,
                 "y": -360,
                 "z": 2
@@ -111,17 +75,17 @@
                 "drawing_id": "ade22b9b-39a4-4cdb-88d4-54604edff8ab",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"100\" height=\"40\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">10.100.2.0/23\n10.100.3.255</text></svg>",
-                "x": 328,
-                "y": 188,
+                "svg": "<svg width=\"166\" height=\"72\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">10.100.2.0/23\nrango\n10.100.2.1-10.100.3.254\nbroadcast 10.100.3.255</text></svg>",
+                "x": 313,
+                "y": 169,
                 "z": 2
             },
             {
                 "drawing_id": "a4c9a83f-5663-4b56-9072-5ca052066282",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"116\" height=\"40\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">192.168.0.0 / 21\n192.168.7.255</text></svg>",
-                "x": -808,
+                "svg": "<svg width=\"190\" height=\"72\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">192.168.0.0 / 21\nrango\n192.168.0.1 - 192.168.7.254\nbroadcast - 192.168.7.255</text></svg>",
+                "x": -809,
                 "y": 305,
                 "z": 2
             },
@@ -138,9 +102,9 @@
                 "drawing_id": "dc34a33a-1867-4337-bdc1-1b24c88fc7ff",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"108\" height=\"40\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">192.168.8.0/24\n192.168.8.255</text></svg>",
-                "x": -805,
-                "y": -218,
+                "svg": "<svg width=\"182\" height=\"88\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">192.168.8.0/24\nrango\n192.168.8.1-192.168.1.254\n\nbroadcast - 192.168.8.255</text></svg>",
+                "x": -816,
+                "y": -257,
                 "z": 2
             },
             {
